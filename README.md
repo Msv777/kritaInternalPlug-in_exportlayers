@@ -4,3 +4,5 @@ Krita的工具->脚本->图层导出工具.添加了一个按钮使其可以直�
 
 Krita's Tools->Scripts->Layer Export Tool. Added a button to copy the currently selected layer directly to the clipboard. Uses ClipBoard-Online (https://github.com/YanxinTang/clipboard-online) to AirDrop to iPad and to any PC application that supports clipboard.
 Overwrite exportlayers.py under this source code to the file with the same name in E:\ProgramsE\krita\share\krita\pykrita\exportlayers.
+
+krita.org
